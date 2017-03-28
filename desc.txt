@@ -13,3 +13,9 @@ vi fn - написать код в файл
 
 git diff
 git show + commit number - выведет изменени€ в коммите
+
+git remote add origin https://github.com/stKorshunov/learningGit.git    - remote: удаленный  origin: им€
+git remote -v    - провер€ем
+
+git pull - забираем с гита
+git push - пушим на гит
