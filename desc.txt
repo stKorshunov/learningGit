@@ -1,0 +1,15 @@
+git init
+git status
+touch filename.js - создать файл (будет красным)
+
+git add filename - добавляет файл в гит и следит за файлом (станет зеленым)
+git add . - доюавит все файлы сразу
+git commit -m "Message"   - комитим файл (-m означает - message)
+
+git log - список коммитов
+
+vi fn - написать код в файл
+(esc) + :wq    - выйти из редактора 
+
+git diff
+git show + commit number - выведет изменения в коммите
